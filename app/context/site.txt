@@ -1,0 +1,7 @@
+Title: s2t_POS
+----
+Author: A.A. Trabucco-Campos
+----
+Description: An Awesome Site
+----
+Copyright: © 2009-(date: Year) (link: http://bastianallgeier.com text: Bastian Allgeier GmbH)
