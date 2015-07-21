@@ -28,5 +28,7 @@ This does the following:
 
 ### Credits
 Bastian Allgeier for making the awesome Kirby
+
 Slgoetz for his mlkshk-kirby-generator
+
 For more info visit http://getkirby.com
