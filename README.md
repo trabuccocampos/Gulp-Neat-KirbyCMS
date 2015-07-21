@@ -7,6 +7,7 @@
 - LibSass
 - Neat & Bourbon
 - BrowserSync
+- Kirby CMS 2.1
 
 ## Setup
 ```cd``` into folder and run
@@ -26,4 +27,6 @@ This does the following:
 - reloads with any content updates
 
 ### Credits
+Bastian Allgeier for making the awesome Kirby
 Slgoetz for his mlkshk-kirby-generator
+For more info visit http://getkirby.com
